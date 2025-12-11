@@ -1,4 +1,5 @@
-# Sabor Local
+# Sabor Local - Feito por: <a href="https://github.com/JulioSalvarani">JulioSalvarani</a> , <a href="https://github.com/IvanBarbosaFilho">IvanBarbosaFilho</a> , <a href="https://github.com/pLeal27">pLeal27</a>
+
 Um sistema FrontEnd de aplicativo de delivery para usuários.
 Onde é possível:
 - Fazer pedidos
@@ -8,6 +9,7 @@ Onde é possível:
 E muito mais!!
 
 Foram usados processos de SendGrid para verificação de email, além de Asaas para pagamentos e estornos.
+
 <p>
   <img width="337" height="738" alt="image" src="https://github.com/user-attachments/assets/04f596b5-5c6d-4519-bd1d-9a35a92425a0"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="337" height="738" alt="image" src="https://github.com/user-attachments/assets/42cda919-75ce-4588-a5c7-01f6d1a9fb0b" />
 </p>
